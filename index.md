@@ -1,6 +1,7 @@
 ---
 redirect_to: 
   - "/portfolio"
+---
 
 
 ## Welcome to GitHub Pages
