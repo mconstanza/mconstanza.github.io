@@ -1,5 +1,5 @@
 redirect_to:
-  - http://www.github.com
+  - http://mconstanza.github.io/portfolio
 
 ## Welcome to GitHub Pages
 
