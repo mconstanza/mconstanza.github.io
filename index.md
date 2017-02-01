@@ -1,6 +1,6 @@
 ---
 redirect_to: 
-  - "/portfolio"
+  - /portfolio
 ---
 
 
